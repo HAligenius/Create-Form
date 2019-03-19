@@ -12,5 +12,11 @@
 
 ### There are many input type tag before we write input must write its name for name we use <label>tag like that <label>…..</label>
 
-   
+* Text/password
+* Age
+* Date
+* Radio
+* Checkbox
+* Text area
+
    
