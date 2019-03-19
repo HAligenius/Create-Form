@@ -1,0 +1,47 @@
+form{
+	width: 60%;
+	border: 1px solid black;
+	height: 650px;
+	margin-left: 20px;
+	margin-top:30px;
+	
+}
+.left{
+	float: left;
+   
+}
+.right{
+	float: right;	
+	margin-right: 150px;
+}
+ul li{
+	list-style: none;
+	padding: 1%;
+	
+}
+input{
+	padding: 2%;
+	padding-right: 100px;
+	
+}
+select{
+	padding:2.5%;
+	padding-right: 525px;
+}
+.sub{
+	padding:1%;
+	padding-right: 430px;
+}
+.bt{
+	padding: 2%;
+	text-align: center;
+	padding-right: 30%;
+	padding-left: 20%;
+	font-size: 15px ;
+	background: #2B3E5E;
+	color:white;
+
+}
+hr{
+	margin-right:30px;
+}
