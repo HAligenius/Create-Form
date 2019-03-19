@@ -8,7 +8,7 @@
      1	GET method is used when you enter data it show your in browsers URL 
      2	POST method is used when you enter data it hide data
      
-     * Mostly used post method for security
+     ..* Mostly used post method for security
 
    
-    
+   
