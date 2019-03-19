@@ -7,3 +7,5 @@
 
      1	GET method is used when you enter data it show your in browsers URL 
      2	POST method is used when you enter data it hide data
+     *  Mostly used post method for security
+     ###### There are many input type tag before we write input must write its name for name we use <label>tag like that <label>…..</label>
