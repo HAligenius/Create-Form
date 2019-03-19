@@ -5,8 +5,8 @@
     Create form we use first form tag <form>……</form>
       And in form we use two type of method like “Post” and “Get” Methods
 
-   1	GET method is used when you enter data it show your in browsers URL 
-   2	POST method is used when you enter data it hide data
+    1	GET method is used when you enter data it show your in browsers URL 
+    2	POST method is used when you enter data it hide data
      
 * Mostly used post method for security
 
