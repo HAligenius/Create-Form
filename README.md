@@ -19,4 +19,4 @@
 * Checkbox
 * Text area
 
-    The Code given it is Output
+## Code given it is Output
