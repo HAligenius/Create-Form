@@ -20,3 +20,6 @@
 * Text area
 
 ## Code given it is Output
+
+
+![Capture](https://user-images.githubusercontent.com/35793259/54626920-01f59e00-4a94-11e9-8a77-a6872c22c9b9.PNG)
